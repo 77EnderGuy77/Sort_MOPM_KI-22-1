@@ -1,2 +1,17 @@
-﻿  bogoSort.c
-  Sorting code.vcxproj -> D:\Sorting code\x64\Debug\Sorting code.exe
+﻿  selectionSort.c
+  bogoSort.c
+  heapSort.c
+E:\Sort_MOPM_KI-22-1\Sorting code\Sorting code\heapSort.c(49,29): warning C4020: '_heapify': too many actual parameters
+E:\Sort_MOPM_KI-22-1\Sorting code\Sorting code\heapSort.c(52,9): warning C4013: '_swap' undefined; assuming extern returning int
+E:\Sort_MOPM_KI-22-1\Sorting code\Sorting code\heapSort.c(53,29): warning C4020: '_heapify': too many actual parameters
+E:\Sort_MOPM_KI-22-1\Sorting code\Sorting code\heapSort.c(57,51): warning C4029: declared formal parameter list different from definition
+  shakerSort.c
+  insertionSort.c
+  interval.c
+  mainApp.c
+  mergeSort.c
+  order.c
+  sizePick.c
+  test_print.c
+  Generating Code...
+  Sorting code.vcxproj -> E:\Sort_MOPM_KI-22-1\Sorting code\x64\Debug\Sorting code.exe
